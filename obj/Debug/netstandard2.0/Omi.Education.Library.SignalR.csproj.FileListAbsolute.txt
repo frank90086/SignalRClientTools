@@ -1,0 +1,8 @@
+C:\Users\frankhsu\Desktop\Omi.Education.V2\Omi.Education.Sln\src\Omi.Education.Library.SignalR\bin\Debug\netstandard2.0\Omi.Education.Library.SignalR.deps.json
+C:\Users\frankhsu\Desktop\Omi.Education.V2\Omi.Education.Sln\src\Omi.Education.Library.SignalR\bin\Debug\netstandard2.0\Omi.Education.Library.SignalR.dll
+C:\Users\frankhsu\Desktop\Omi.Education.V2\Omi.Education.Sln\src\Omi.Education.Library.SignalR\bin\Debug\netstandard2.0\Omi.Education.Library.SignalR.pdb
+C:\Users\frankhsu\Desktop\Omi.Education.V2\Omi.Education.Sln\src\Omi.Education.Library.SignalR\obj\Debug\netstandard2.0\Omi.Education.Library.SignalR.csproj.CoreCompileInputs.cache
+C:\Users\frankhsu\Desktop\Omi.Education.V2\Omi.Education.Sln\src\Omi.Education.Library.SignalR\obj\Debug\netstandard2.0\Omi.Education.Library.SignalR.AssemblyInfoInputs.cache
+C:\Users\frankhsu\Desktop\Omi.Education.V2\Omi.Education.Sln\src\Omi.Education.Library.SignalR\obj\Debug\netstandard2.0\Omi.Education.Library.SignalR.AssemblyInfo.cs
+C:\Users\frankhsu\Desktop\Omi.Education.V2\Omi.Education.Sln\src\Omi.Education.Library.SignalR\obj\Debug\netstandard2.0\Omi.Education.Library.SignalR.dll
+C:\Users\frankhsu\Desktop\Omi.Education.V2\Omi.Education.Sln\src\Omi.Education.Library.SignalR\obj\Debug\netstandard2.0\Omi.Education.Library.SignalR.pdb
